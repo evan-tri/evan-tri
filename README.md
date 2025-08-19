@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science student at Texas A&M University<br>🔧 Focused on backend development and machine learning<br>📊 Exploring machine learning and computer vision projects<br>🚀 Interested in building real-world applications that combine efficiency with usability
+🎓 Computer Science student at Texas A&M University<br>🔧 Focused on backend development and machine learning<br>📊 Teaching myself machine learning and computer vision<br>🚀 Excited about applying ML techniques to solve practical challenges, from image recognition to predictive systems, and integrating them into real-world applications
 
 
 # 💻 Tech Stack:
